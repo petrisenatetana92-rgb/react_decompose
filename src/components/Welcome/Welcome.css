@@ -5,11 +5,17 @@
 }
 
 .welcome__text {
-  margin: 0;
-  font-size: 400%;
-  text-align: center;
-  line-height: 1;
-  padding-top: calc(50vh - 20pt);
   display: block;
-  font-weight: 700;
+
+  margin: 0;
+ padding-top: calc(50vh - 20pt);
+
+
+  font-size: 400%;
+  line-height: 1;
+  text-align: center;
+
+
+
+
 }
