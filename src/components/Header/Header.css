@@ -8,13 +8,10 @@
   width: 100%;
   padding: 1em;
 
-
   font-size: 140%;
  text-align: center;
 
   transition: opacity 0.2s ease-in-out;
-
-
 }
 
 .header__title {
@@ -25,10 +22,6 @@
 
   font-size: inherit;
   font-weight: 600;
-
-
-
-
 }
 
 @media (min-width: 500px) {
